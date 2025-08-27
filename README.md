@@ -71,7 +71,3 @@ Pricing is a critical factor in the success of an Airbnb listing. Hosts often st
   - `scikit-learn` for modeling and evaluation
   - `XGBoost` for advanced regression
 - **Environment**: Jupyter Notebook
-
----
-
-📁 Project Structure (Recommended)
